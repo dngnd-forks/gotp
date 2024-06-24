@@ -12,7 +12,7 @@ GOTP was inspired by [PyOTP][PyOTP].
 ## Installation
 
 ```
-$ go get github.com/xlzd/gotp
+$ go get github.com/dngnd-forks/gotp
 ```
 
 ## Usage
@@ -88,7 +88,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/xlzd/gotp"
+	"github.com/dngnd-forks/gotp"
 )
 
 func main() {
